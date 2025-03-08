@@ -39,3 +39,6 @@ switch (userType) {
     default:
         userCategory = "Unknown";
 }
+// ternary
+let isAuthenticated = true;
+let authenticationStatus = isAuthenticated ? "Authenticated" : "Not authenticated";gi
